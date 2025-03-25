@@ -1,4 +1,5 @@
-### Transcendence  
+# Transcendence  
+
 🌐 Live at: [pong42.com](https://pong42.com)  
 🔒 *Private repository — team project at 42 School*
 
