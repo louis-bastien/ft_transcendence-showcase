@@ -14,20 +14,26 @@ A multiplayer Pong web app built as a full-stack team project during the 42 engi
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
-![KMS](https://img.shields.io/badge/AWS%20KMS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
-![ModSecurity](https://img.shields.io/badge/ModSecurity-6E6E6E?style=for-the-badge&logo=shield&logoColor=white)
+**Languages & Frameworks**
+- Python  
+- Django  
+- JavaScript  
+- HTML5 / CSS3  
+
+**DevOps & Infrastructure**
+- Docker  
+- AWS EC2 (App Hosting)  
+- AWS S3 (Secrets / Storage)  
+- AWS KMS (Key Management)  
+- GitHub Actions (CI/CD)
+
+**Security & Monitoring**
+- HashiCorp Vault  
+- ModSecurity (WAF) + OWASP Core Rule Set  
+- Prometheus  
+- Grafana
+
+---
 
 ### ⚠️ Note
 The full project repository is private and hosted under the team leader’s GitHub account. If you'd like to see the code or discuss the project in detail, feel free to contact me.
