@@ -38,3 +38,5 @@ A multiplayer Pong web app built as a full-stack team project during the 42 engi
 
 ### ⚠️ Note
 The full project repository is private and hosted under the team leader’s GitHub account. If you'd like to see the code or discuss the project in detail, feel free to contact me.
+
+Built and maintained by [@louis-bastien](https://github.com/louis-bastien)
