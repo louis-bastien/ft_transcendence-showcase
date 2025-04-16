@@ -19,7 +19,8 @@ A multiplayer Pong web app built as a full-stack team project during the 42 engi
 - Python  
 - Django  
 - JavaScript  
-- HTML5 / CSS3  
+- HTML5 / CSS3
+- WebSockets
 
 **DevOps & Infrastructure**
 - Docker  
